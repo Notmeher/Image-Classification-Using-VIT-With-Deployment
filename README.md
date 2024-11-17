@@ -1,7 +1,3 @@
-Here's a sample GitHub README file based on your project setup instructions:
-
----
-
 # Project Title
 
 Description: This project uses a model weight and configuration available [here](https://drive.google.com/drive/folders/1vecZ4nfieAIGyj4d-tyP_Dt7z8CigUeT?usp=drive_link).
